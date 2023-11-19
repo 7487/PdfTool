@@ -17,4 +17,5 @@ python main.py batch --input_dir ./test/og_pdf_dir --output ./test/merge_pdf_dir
 
 # 作者
 name: qz
+
 email: qz1042653432@163.com
