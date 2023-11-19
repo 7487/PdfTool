@@ -16,4 +16,5 @@ pip install -r requirement.txt
 python main.py batch --input_dir ./test/og_pdf_dir --output ./test/merge_pdf_dir --operation to_merge
 
 # 作者
-qz
+name: qz
+email: qz1042653432@163.com
